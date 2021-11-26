@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oraonshivam21
+- 👋 Hi, I’m Shivam Oraon
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on various codes and web designing
